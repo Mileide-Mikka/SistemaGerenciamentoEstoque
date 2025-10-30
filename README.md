@@ -53,7 +53,7 @@ python Controle-Estoque.py
 ```
 sistema-estoque/
 │
-├── sistema_estoque.py    # Arquivo principal do sistema
+├── Controle-Estoque.py    # Arquivo principal do sistema
 ├── README.md             # Este arquivo
 └── requirements.txt      # Dependências do projeto
 ```
