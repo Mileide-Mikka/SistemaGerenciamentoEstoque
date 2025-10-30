@@ -42,10 +42,10 @@ Sistema de gerenciamento de estoque desenvolvido em Python como projeto acadêmi
 git clone https://github.com/Mileide-Mikka/SistemaGerenciamentoEstoque/blob/main/Controle-Estoque.py
 
 # Acesse o diretório
-cd sistema-estoque
+cd SistemaGerenciamentoEstoque
 
 # Execute o programa
-python sistema_estoque.py
+python Controle-Estoque.py
 ```
 
 ## 🏗️ Estrutura do Projeto
